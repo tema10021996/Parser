@@ -1,0 +1,7 @@
+c:\Users\руслан\documents\visual studio 2015\Projects\Parser\BSS_Parse\bin\Debug\BSS_Parse.dll
+c:\Users\руслан\documents\visual studio 2015\Projects\Parser\BSS_Parse\bin\Debug\BSS_Parse.pdb
+c:\Users\руслан\documents\visual studio 2015\Projects\Parser\BSS_Parse\bin\Debug\AngleSharp.dll
+c:\Users\руслан\documents\visual studio 2015\Projects\Parser\BSS_Parse\bin\Debug\AngleSharp.xml
+c:\Users\руслан\documents\visual studio 2015\Projects\Parser\BSS_Parse\obj\Debug\BSS_Parse.csprojResolveAssemblyReference.cache
+c:\Users\руслан\documents\visual studio 2015\Projects\Parser\BSS_Parse\obj\Debug\BSS_Parse.dll
+c:\Users\руслан\documents\visual studio 2015\Projects\Parser\BSS_Parse\obj\Debug\BSS_Parse.pdb

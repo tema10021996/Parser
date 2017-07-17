@@ -1,0 +1,11 @@
+C:\Users\руслан\Documents\Visual Studio 2015\Projects\Parser\DesctopParse\bin\Debug\DesctopParse.exe.config
+C:\Users\руслан\Documents\Visual Studio 2015\Projects\Parser\DesctopParse\bin\Debug\DesctopParse.exe
+C:\Users\руслан\Documents\Visual Studio 2015\Projects\Parser\DesctopParse\bin\Debug\DesctopParse.pdb
+C:\Users\руслан\Documents\Visual Studio 2015\Projects\Parser\DesctopParse\bin\Debug\AngleSharp.dll
+C:\Users\руслан\Documents\Visual Studio 2015\Projects\Parser\DesctopParse\bin\Debug\AngleSharp.xml
+C:\Users\руслан\Documents\Visual Studio 2015\Projects\Parser\DesctopParse\obj\Debug\DesctopParse.csprojResolveAssemblyReference.cache
+C:\Users\руслан\Documents\Visual Studio 2015\Projects\Parser\DesctopParse\obj\Debug\DesctopParse.Parser.resources
+C:\Users\руслан\Documents\Visual Studio 2015\Projects\Parser\DesctopParse\obj\Debug\DesctopParse.Properties.Resources.resources
+C:\Users\руслан\Documents\Visual Studio 2015\Projects\Parser\DesctopParse\obj\Debug\DesctopParse.csproj.GenerateResource.Cache
+C:\Users\руслан\Documents\Visual Studio 2015\Projects\Parser\DesctopParse\obj\Debug\DesctopParse.exe
+C:\Users\руслан\Documents\Visual Studio 2015\Projects\Parser\DesctopParse\obj\Debug\DesctopParse.pdb
